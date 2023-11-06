@@ -1,0 +1,28 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Compiled Python files
+*.pyc
+
+# IDE-specific directories/files
+.idea/
+.vscode/
+
+# Editor/IDE configuration files
+*.swp
+
+# Logs and local development database files
+logs/
+*.db
+
+# The Python interpreter cache
+__pycache__/

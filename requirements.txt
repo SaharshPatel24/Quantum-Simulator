@@ -1,0 +1,4 @@
+flask
+qiskit
+cirq
+flask_cors
